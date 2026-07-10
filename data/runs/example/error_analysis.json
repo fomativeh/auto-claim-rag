@@ -1,0 +1,36 @@
+{
+  "mismatch_counts": {
+    "loss_description": 3,
+    "vehicle_model": 1
+  },
+  "top_mismatched_fields": [
+    "loss_description",
+    "vehicle_model"
+  ],
+  "examples": {
+    "loss_description": [
+      {
+        "doc_id": "claim_002_bodyshop_estimate",
+        "pred_value": "front passenger corner",
+        "gold_value": "Body shop estimate for front passenger corner damage."
+      },
+      {
+        "doc_id": "claim_005_liability_letter",
+        "pred_value": "rear-ended at stop light",
+        "gold_value": "Claimant alleges insured rear-ended claimant; liability only policy."
+      },
+      {
+        "doc_id": "claim_007_email_thread",
+        "pred_value": "hail damage; dents on hood; dents on roof",
+        "gold_value": "Hail storm caused dents on hood and roof; no injuries; estimate from River City Dent Repair."
+      }
+    ],
+    "vehicle_model": [
+      {
+        "doc_id": "claim_006_support_ticket",
+        "pred_value": "Altima",
+        "gold_value": "Altima SV"
+      }
+    ]
+  }
+}

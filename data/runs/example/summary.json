@@ -1,0 +1,6 @@
+{
+  "doc_exact_match": 0.5,
+  "field_accuracy": 0.9722222222222222,
+  "llm_mode": "openai",
+  "openai_json_mode": true
+}

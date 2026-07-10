@@ -1,0 +1,15 @@
+Policy excerpt (simplified)
+
+Collision coverage
+Pays for direct and accidental loss to your covered auto caused by collision with another vehicle or object, or by upset/rollover. Subject to deductible shown on declarations.
+
+Comprehensive coverage (Other Than Collision)
+Pays for direct and accidental loss to your covered auto caused by theft, vandalism, fire, falling objects, animal impact, flood, hail, windstorm, or glass breakage. Subject to deductible shown on declarations.
+
+Liability coverage
+Pays damages for bodily injury or property damage for which an insured becomes legally responsible because of an auto accident. Liability does not pay for damage to the insured vehicle unless there is separate collision/comprehensive coverage.
+
+How intake notes map to coverage_type (rule of thumb)
+- "rear ended another vehicle", "hit guardrail", "backed into pole" -> collision
+- "stolen", "broken window", "hail" -> comprehensive
+- "liability only policy", "at-fault" without first-party vehicle damage coverage mentioned -> liability

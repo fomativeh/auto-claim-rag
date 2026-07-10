@@ -1,0 +1,26 @@
+{
+  "loss_description": [
+    {
+      "gold_value": "Body shop estimate for front passenger corner damage.",
+      "pred_value": "front passenger corner",
+      "count": 1
+    },
+    {
+      "gold_value": "Claimant alleges insured rear-ended claimant; liability only policy.",
+      "pred_value": "rear-ended at stop light",
+      "count": 1
+    },
+    {
+      "gold_value": "Hail storm caused dents on hood and roof; no injuries; estimate from River City Dent Repair.",
+      "pred_value": "hail damage; dents on hood; dents on roof",
+      "count": 1
+    }
+  ],
+  "vehicle_model": [
+    {
+      "gold_value": "Altima SV",
+      "pred_value": "Altima",
+      "count": 1
+    }
+  ]
+}

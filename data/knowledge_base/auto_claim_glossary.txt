@@ -1,0 +1,32 @@
+Auto Insurance Claims Glossary (internal cheat sheet)
+
+Common abbreviations
+- FNOL: First Notice of Loss (initial intake report)
+- DOL: Date of Loss
+- POL#: Policy number
+- CLM#: Claim number
+- Insd: Insured (policyholder)
+- Clmt: Claimant (person making the claim, sometimes insured)
+- PD: Property Damage (vehicle or other property)
+- BI: Bodily Injury
+- Tow: Towing
+- RO: Repair Order
+- Est: Estimate
+- Ded: Deductible
+
+Coverage types (high-level)
+- Collision: Damage to the covered vehicle from collision with another vehicle or object. Often applies when the insured hits another car, guardrail, pole, etc.
+- Comprehensive: Damage not caused by collision, e.g., theft, vandalism, hail, falling objects. Some carriers call it "Other Than Collision".
+- Liability: Damage or injury the insured causes to others. For intake notes, "liability only" often means no first-party collision/comprehensive on the insured vehicle.
+
+Police report
+- PR# may be written as Police Report, Incident Report, Case No., Report No.
+- Not all losses have a police report. Hit-and-run frequently does.
+
+Injury
+- Injury may be stated as "no injuries", "denies injury", "minor whiplash", "went to urgent care", "ambulance".
+- If unclear, set injury_reported to null.
+
+Money amounts
+- Body shop estimates can be written as $2,450.00, 2450, or "2.45k".
+- If there are multiple estimates, use the most recent estimate in the document if obvious.

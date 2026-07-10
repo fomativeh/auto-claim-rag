@@ -1,0 +1,20 @@
+Support Ticket #448190 (messy portal submission)
+
+hi, i need help with my claim.
+
+claim id: AC-2026-002611
+policy id - NYP 33110 08
+name: "Amina Yusuf"
+
+accident happened 6/30/26 at about 9am, near 55 W 125th St, New York, NY
+
+car: 2020 Nissan Altima (sv)
+vin: 1N4BL4BV0LC109876
+
+what happened:
+i backed out of driveway and hit a pole. rear bumper cracked. no police.
+
+injury: no
+call me 917-555-0181 or email amina.yusuf@example.com
+
+repair shop might be "Harlem Auto Repair" - havent towed yet.

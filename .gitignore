@@ -1,0 +1,38 @@
+# Python bytecode / caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Packaging
+build/
+dist/
+*.egg-info/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Secrets 
+.env
+.env.*
+!.env.example
+
+# Generated indexes and run artifacts
+data/index/
+data/runs/*
+!data/runs/example/
+!data/runs/example/**
+
+data/outputs/*
+!data/outputs/example_predictions.jsonl

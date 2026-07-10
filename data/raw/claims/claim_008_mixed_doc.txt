@@ -1,0 +1,27 @@
+Accident Worksheet (field agent notes)
+
+CLM# AC-2026-003105
+POL# ORP-55109-60
+
+Insured: Daniel Okafor
+Claimant: Daniel Okafor
+
+DOL: 2026-07-01
+Time: 18:20
+Where: 1020 SW Morrison St, Portland OR
+
+Vehicle info:
+- 2016 Jeep Grand Cherokee Limited
+- VIN: 1C4RJFBG0GC334455
+
+Narrative:
+Insured states: "hit-and-run sideswiped me while parked, scraped left side doors."
+Police contacted. Incident report # 26-0701-4420.
+
+Injury: none reported
+
+Body shop: Rose City Auto Body
+Prelim est: $1,965 (scratch/paint, blend both doors)
+
+Callback: 503-555-0199
+Email: daniel.okafor@example.com
