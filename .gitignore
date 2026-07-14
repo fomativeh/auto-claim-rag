@@ -20,7 +20,6 @@ dist/
 
 # OS / editor
 .DS_Store
-.vscode/
 .idea/
 
 # Secrets 
@@ -36,3 +35,7 @@ data/runs/*
 
 data/outputs/*
 !data/outputs/example_predictions.jsonl
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
