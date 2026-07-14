@@ -9,6 +9,9 @@ Task: claim intake extraction into a fixed schema
 
 Extraction accuracy often fails when the model misreads domain shorthand (FNOL, DOL, PD/BI), mixes up insured vs claimant roles, or guesses coverage type. A small, curated knowledge base gives consistent definitions and mapping rules, and retrieval makes those available at extraction time.
 
+![](docs/images/video.gif)
+![](docs/images/shot1.jpg)
+![](docs/images/shot2.jpg)
 ## Scope
 
 This repository focuses on a small extraction pipeline for auto-claim artifacts. It parses plain-text claim documents (and can read PDFs when they contain extractable text), retrieves supporting context from a tiny knowledge base, and produces a single schema-validated JSON extraction per document.
